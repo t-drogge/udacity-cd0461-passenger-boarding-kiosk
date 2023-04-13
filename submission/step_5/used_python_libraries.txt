@@ -1,0 +1,19 @@
+sys
+os
+datetime
+pandas
+PIL
+requests
+io
+glob, time, uuid
+urllib
+matplotlib
+
+msrest.authentication
+azure.core.credentials
+azure.ai.formrecognizer
+azure.core.exceptions
+video_indexer
+azure.cognitiveservices.vision.face
+azure.cognitiveservices.vision.customvision.training
+azure.cognitiveservices.vision.customvision.prediction
