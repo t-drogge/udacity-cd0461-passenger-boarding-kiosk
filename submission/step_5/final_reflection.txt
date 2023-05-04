@@ -1,0 +1,6 @@
+It was a lot of work to realize the boarding kiosk. Especially the uploading and indexing of the video took a lot of time.
+
+I had a lot of struggle with the face API since on my personal free account the face service is not available. I run into the situation, that even on the udacity cloud lab the API was not working any more (with the original code from the jupyter notebook from mister Avkash). The support form udacity was really poor. Finally i put everything aside and tried it three weeks later with the same code and now it worked again. No idea what was the issue.
+
+
+

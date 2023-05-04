@@ -1,6 +1,6 @@
-Carrier;Flight No;Flight Date;Boarding Time;Flight Origin (From);Destination (To);Gate;Last Name;First Name;Sex; Date of Birth;Ticket Number;Class;Baggage; Seat No; DoBValidation; PersonValidation; LuggageValidation; NameValidation; BoardingPassValidation
-UA;234;April 20, 2022;10:00 AM PST;San Francisco;Chicago;G1; Chauhan; Avkash; M;01/01/1990;34236751;Economy;NO;20A;False;False;False;False;False
-UA;234;April 20, 2022;10:00 AM PST;San Francisco;Chicago;G1; Jackson;James; M;10/12/1956;34236750;Economy;YES;25B;False;False;False;False;False
-UA;234;April 20, 2022;10:00 AM PST;San Francisco;Chicago;G1; Herold;Libby; F;02/10/1996;34236231;Business;YES;3D;False;False;False;False;False
-UA;234;April 20, 2022;10:00 AM PST;San Francisco;Chicago;G1;S Kumar;Radha; F;03/05/1994;34236231;Business;YES;34B;False;False;False;False;False
-UA;234;April 20, 2022;10:00 AM PST;San Francisco;Chicago;G1; Drogge;Thorsten;M;10/06/1979;34231443;Business;NO;12C;False;False;False;False;False
+Carrier;Flight No;Flight Date;Boarding Time;Flight Origin (From);Destination (To);Gate;Last Name;First Name;Sex;Date of Birth;Ticket Number;Class;Baggage;Seat No;DoBValidation;PersonValidation;LuggageValidation;NameValidation;BoardingPassValidation
+UA;234;April 20, 2022;10:00 AM PST;San Francisco;Chicago;G1;Chauhan;Avkash;M;01/01/1990;34236751;Economy;NO;20A;False;False;False;False;False
+UA;234;April 20, 2022;10:00 AM PST;San Francisco;Chicago;G1;Jackson;James;M;10/12/1956;34236750;Economy;YES;25B;False;False;False;False;False
+UA;234;April 20, 2022;10:00 AM PST;San Francisco;Chicago;G1;Herold;Libby;F;02/10/1996;34236231;Business;YES;3D;False;False;False;False;False
+UA;234;April 20, 2022;10:00 AM PST;San Francisco;Chicago;G1;Kumar;Radha;F;03/05/1994;34236231;Business;YES;34B;False;False;False;False;False
+UA;234;April 20, 2022;10:00 AM PST;San Francisco;Chicago;G1;Drogge;Thorsten;M;10/06/1979;34231443;Business;NO;12C;False;False;False;False;False
